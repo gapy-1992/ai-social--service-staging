@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on button_object --> navigate to Page_dvc-login",
+        "step 3: At Page_dvc-login input on input_r0_",
+        "step 4: At Page_dvc-login input on input_r1_",
+        "step 5: At Page_dvc-login click on button_object --> navigate to Page_dvc-home",
+        "step 6: At Page_dvc-home click on button_object --> navigate to Page_dvc-home_money-form1",
+        "step 7: Add visual checkpoint at Page_dvc-home_money-form1"
+    ]
+}
